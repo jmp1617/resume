@@ -9,4 +9,4 @@ pdf:
 cl:
 	pdflatex jpotter_cl_2017s1.tex
 clean:
-	rm -f *.log *.aux *.pdf
+	rm -f *.log *.aux
