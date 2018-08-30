@@ -10,7 +10,7 @@ pdf:
 cl:
 	pdflatex jpotter_cl_2017s2.tex
 print:
-	pdflatex jpotter_resume_2017s2_print.tex
+	pdflatex jpotter_resume_2018s1_print.tex
 
 clean:
 	rm -f *.log *.aux
